@@ -6,5 +6,7 @@ package com.chaoyi.cyproject.cyproject;
  * @版本 2020.1.3
  */
 public class ww {
+    public static void main(String[] args) {
 
+    }
 }
